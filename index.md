@@ -1,7 +1,7 @@
-<a href="./Home/">Home</a>
-<a href="./Publications">Publications</a>
-<a href="./Teaching">Teaching</a>
-<a href="./CV/">CV</a>
+<a href="https://jacoporomoli.github.io/Home/">Home</a>
+<a href="https://jacoporomoli.github.io/Publications">Publications</a>
+<a href="https://jacoporomoli.github.io/Teaching">Teaching</a>
+<a href="https://jacoporomoli.github.io/CV/">CV</a>
 
 ### University of Bergen
 #### 2020
