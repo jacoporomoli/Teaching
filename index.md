@@ -56,21 +56,21 @@ Pragmatics and Grammar, the case of presuppositions. Fall 2009
 #### 2017-18
 
 Agata Renans, Postdoc, School of Communication & Media, Ulster University
-2017
+#### 2017
 
 Alexander Cremers, Postdoc, School of Communication and Media, Ulster University
-2015-17
+#### 2015-17
 
 Frances Kane, Postdoc, School of Communication and Media, Ulster University
-2018
+#### 2018
 
 Anne Rainey, PhD student, School of Communication and Media, Ulster University
-2015-18
+#### 2015-18
 
 Federica di Bacco, PhD student, School of Communication and Media, Ulster University
-2013-16
+#### 2013-16
 
 Lynda Kennedy, PhD student, School of Communication and Media, Ulster University
-2013
+#### 2013
 
 Cory Bill, PhD student, Department of Cognitive Science, Macquarie University
