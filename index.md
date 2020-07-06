@@ -2,14 +2,12 @@
 <a href="https://jacoporomoli.github.io/Publications/">Publications</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
-University of Bergen
-
-2020
-
+### University of Bergen
+#### 2020
 ENG343 Meaning in Conversation
-Ulster University
+### Ulster University
 
-2019
+#### 2019
 
 Pragmatics, CMM351
 Experimenting with language, CMM165
