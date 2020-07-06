@@ -6,27 +6,26 @@
 #### 2020
 ENG343 Meaning in Conversation
 ### Ulster University
-
 #### 2019
 
 Pragmatics, CMM351
 Experimenting with language, CMM165
-2018
+#### 2018
 
 On sabbatical
-2017
+#### 2017
 
 Semantics, CMM349
 Pragmatics, CMM351
 Linguistic Interfaces, CMM531
 Experimenting with language, CMM165
-2016
+#### 2016
 
 Semantics, CMM349
 Pragmatics, CMM351
 Linguistic Interfaces, CMM531
 Linguistic theory for speech and language therapists, SLT317
-2015
+#### 2015
 
 Semantics, CMM349
 Pragmatics, CMM351
@@ -37,24 +36,24 @@ Linguistic theory for speech and language therapists, SLT317
 Semantics, CMM349
 Pragmatics, CMM351
 Linguistic theory for speech and language therapists, SLT317
-2013
+#### 2013
 
 Semantics, CMM349
 Phonetics and Phonology of English, CMM705
-Harvard University
+### Harvard University
 
-2011
+#### 2011
 
 Conditionals, Meaning, Structure and use Spring 2011
-2010
+#### 2010
 
 Understanding Scalar Implicatures. Fall 2010
-2009
+#### 2009
 
 Pragmatics and Grammar, the case of presuppositions. Fall 2009
-Supervision
+### Supervision
 
-2017-18
+#### 2017-18
 
 Agata Renans, Postdoc, School of Communication & Media, Ulster University
 2017
