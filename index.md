@@ -3,9 +3,12 @@
 <a href="https://jacoporomoli.github.io/Teaching">Teaching</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
+![MeTeach](https://user-images.githubusercontent.com/22214308/87099940-f9097c80-c242-11ea-89de-b03d6f96ca80.png)
+
 ### University of Bergen
 #### 2020
 ENG343 Meaning in Conversation
+
 ### Ulster University
 #### 2019
 
