@@ -7,7 +7,7 @@
 
 ### University of Bergen
 #### 2020
-ENG343 Meaning in Conversation
+<a href="http://www.jacoporomoli.com/resources/" target="_blank"><ENG343 Meaning in Conversation></a>
 
 ### Ulster University
 #### 2019
