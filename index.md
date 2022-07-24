@@ -4,7 +4,10 @@
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
 <p></p>
-<h3 class="has-text-color" style="color: #e62821;"><span style="color: #0076BA;">Heinrich Heine University Düsseldorf</span></h3>
+<p></p>
+<p></p>
+<p></p>
+<h3 class="has-text-color" style="color: #018EFF;">Heinrich Heine University Düsseldorf</h3>
 <p class="has-text-color" style="color: #000000;"><strong>2022</strong></p>
 
 <ul>
