@@ -3,11 +3,8 @@
 <a href="https://jacoporomoli.github.io/Teaching">Teaching</a>
 <a href="https://jacoporomoli.github.io/CV/">CV</a>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3 style="color: #0894C4;">Heinrich Heine University Düsseldorf</h3>
+
+<h2 style="color: #0894C4;">Heinrich Heine University Düsseldorf</h2>
 <p style="color: #000000;"><strong>2022</strong></p>
 
 <ul>
