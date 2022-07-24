@@ -8,8 +8,8 @@
 <p></p>
 <p></p>
 <h3 style="color: #018EFF;">Heinrich Heine University Düsseldorf</h3>
-<p class="has-text-color" style="color: #000000;"><strong>2022</strong></p>
+<p style="color: #000000;"><strong>2022</strong></p>
 
 <ul>
- 	<li class="has-text-color" style="color: #000000;">Expressing  choices in natural language</li>
+ 	<li style="color: #000000;">Expressing  choices in natural language</li>
 </ul>
