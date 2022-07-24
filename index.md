@@ -7,7 +7,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h3 style="color: #018EFF;">Heinrich Heine University Düsseldorf</h3>
+<h3 style="color: #0084CF;">Heinrich Heine University Düsseldorf</h3>
 <p style="color: #000000;"><strong>2022</strong></p>
 
 <ul>
